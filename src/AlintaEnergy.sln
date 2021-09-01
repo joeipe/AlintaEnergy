@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlintaEnergy.API", "AlintaEnergy.API\AlintaEnergy.API.csproj", "{950C9D88-41C1-41A5-88DC-C29B5EEFE8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContext.Domain", "DataContext.Domain\DataContext.Domain.csproj", "{F606B25D-70A4-4659-B55E-81C28286C475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlintaEnergy.ViewModels", "AlintaEnergy.ViewModels\AlintaEnergy.ViewModels.csproj", "{45ACE4CA-964E-4711-B22C-D422064F42F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlintaEnergy.Data", "AlintaEnergy.Data\AlintaEnergy.Data.csproj", "{DDD676B7-7790-4082-B920-489E33C8255F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlintaEnergy.Application", "AlintaEnergy.Application\AlintaEnergy.Application.csproj", "{1E7E00AA-E08E-458B-A559-9163EB9276D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlintaEnergy.Tests", "AlintaEnergy.Tests\AlintaEnergy.Tests.csproj", "{98A02BE1-A1DD-4550-8F67-2BAD802DBDF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950C9D88-41C1-41A5-88DC-C29B5EEFE8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950C9D88-41C1-41A5-88DC-C29B5EEFE8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950C9D88-41C1-41A5-88DC-C29B5EEFE8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950C9D88-41C1-41A5-88DC-C29B5EEFE8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F606B25D-70A4-4659-B55E-81C28286C475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F606B25D-70A4-4659-B55E-81C28286C475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F606B25D-70A4-4659-B55E-81C28286C475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F606B25D-70A4-4659-B55E-81C28286C475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45ACE4CA-964E-4711-B22C-D422064F42F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ACE4CA-964E-4711-B22C-D422064F42F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ACE4CA-964E-4711-B22C-D422064F42F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ACE4CA-964E-4711-B22C-D422064F42F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD676B7-7790-4082-B920-489E33C8255F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD676B7-7790-4082-B920-489E33C8255F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD676B7-7790-4082-B920-489E33C8255F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD676B7-7790-4082-B920-489E33C8255F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7E00AA-E08E-458B-A559-9163EB9276D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7E00AA-E08E-458B-A559-9163EB9276D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7E00AA-E08E-458B-A559-9163EB9276D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7E00AA-E08E-458B-A559-9163EB9276D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A02BE1-A1DD-4550-8F67-2BAD802DBDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A02BE1-A1DD-4550-8F67-2BAD802DBDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A02BE1-A1DD-4550-8F67-2BAD802DBDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A02BE1-A1DD-4550-8F67-2BAD802DBDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF75D5C-2519-4BC5-8331-0BAADCCA6A8C}
+	EndGlobalSection
+EndGlobal
